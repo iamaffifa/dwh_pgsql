@@ -4,7 +4,7 @@ Creating Database and Schemas
 ==========================================
 
 Script Purpose:
-Create database ith name "dwh_pgsql" and schemas
+Create database with name "dwh_pgsql" and schemas
 
 Script Warning
 None
